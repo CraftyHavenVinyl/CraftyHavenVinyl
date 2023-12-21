@@ -4,3 +4,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display";
   letter-spacing: 5px;
 }
+
+footer {
+  padding: 10px; /* Add padding for better appearance */
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
